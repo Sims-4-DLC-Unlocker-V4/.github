@@ -10,7 +10,7 @@ Supported platforms include **Steam**, **Epic Games Store**, and **EA Play**.
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Sims-4-DLC-Unlocker-V4/.github/releases)
 
 ---
 
